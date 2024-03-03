@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Geesha De Silva</h1>
 <h3 align="center">I'm an aspiring game design/developer, web developer and mobile application developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Unity, Unreal Engine, Blender and Maya**
+- 🎮 I’m currently learning **Unity, Unreal Engine, Blender and Maya**
 
-- 👨‍💻 A few website projects I worked on during my undergraduate years: <br>
+- 💻 A few website projects I worked on during my undergraduate years: <br>
   (https://timashafernando29.wixsite.com/kendall-rocher , https://giuvnavod.wixsite.com/hardwareheavenlk)
 
-- 📫 How to reach me **geeshadesilva@gmail.com**
+- ✉️ Email address: **geeshadesilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
