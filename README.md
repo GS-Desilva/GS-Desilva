@@ -4,7 +4,7 @@
 - 🎮 I’m currently learning **Unity, Unreal Engine, Blender and Maya**
   
 - 🖼️ Portfolio: <br>
-  https://www.behance.net/gallery/192994561/GS-De-Silva-Portfolio
+  https://www.behance.net/gallery/192994561/GS-De-Silva-web-design
 
 - 💻 A few website projects I worked on during my undergraduate years: <br>
   (https://timashafernando29.wixsite.com/kendall-rocher , https://giuvnavod.wixsite.com/hardwareheavenlk)
