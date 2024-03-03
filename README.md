@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Geesha De Silva</h1>
+<h1 align="center">Hi, I'm Geesha De Silva</h1>
 <h3 align="center">I'm an aspiring game design/developer, web developer and mobile application developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Unity, Unreal Engine, Blender and Maya**
+
+- 👨‍💻 All of my projects are available at [https://timashafernando29.wixsite.com/kendall-rocher , https://giuvnavod.wixsite.com/hardwareheavenlk](https://timashafernando29.wixsite.com/kendall-rocher , https://giuvnavod.wixsite.com/hardwareheavenlk)
 
 - 📫 How to reach me **geeshadesilva@gmail.com**
 
