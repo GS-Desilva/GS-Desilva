@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/geesha-de-silva-2697b0207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Geesha De Silva" height="30" width="40" /></a>
 <a href="https://www.behance.net/geeshadesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Geesha De Silva" height="30" width="40" /></a>
-<a href="https://instagram.com/geesha.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geesha.s" height="30" width="40" /></a>
 </p>
 
 
