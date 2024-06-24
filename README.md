@@ -9,7 +9,7 @@
 - 💻 A few website projects I worked on during my undergraduate years: <br>
   (https://timashafernando29.wixsite.com/kendall-rocher , https://giuvnavod.wixsite.com/hardwareheavenlk)
 
-- 💻 A few 'project management projects I worked on during my undergraduate years: <br>
+- 💻 A few 'project management' projects I worked on during my undergraduate years: <br>
   Change Management:<br> https://1drv.ms/b/c/05c8e17e912b7c23/Ed2uAa99tZVHlWI9eZ2EG4kBJiNreExuwlBxemjGIYSV2A?e=BGFOLw <br>
   Small IT Business report: <br>https://1drv.ms/b/c/05c8e17e912b7c23/ERxCUH8OcfpEiUfSSCQ7ov0BqpGltcE1ki7iT-B4NnUkMA?e=X96Yax <br>
   Final project requirement analysis document:<br> https://1drv.ms/b/c/05c8e17e912b7c23/EelfnRTJ2rlFlPamkGFZF0IBUFmVkYddnivqABm0yXU3Rg?e=jhBhWj <br>
